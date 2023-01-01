@@ -3,7 +3,7 @@
 />
 
 ### ☀️ El tiempo
-A simple script for scrap some data from [Eltiempo.es](http://eltiempo.es). It uses selenium.
+A simple script to scrape some data from [Eltiempo.es](http://eltiempo.es). It uses selenium, css selectors and xpath. Additionally it generates a csv with the obtained data, specifically this script works for the city of Madrid, in the interval of 1 day, in intervals of 1 hour.
 
 ### 📦 Installation
 1. First, clone the repository:
