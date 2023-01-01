@@ -8,7 +8,7 @@ A simple script for scrap some data from [Eltiempo.es](http://eltiempo.es). It u
 ### 📦 Installation
 1. First, clone the repository:
 ```
-git clone
+git clone https://github.com/jsonfm/eltiempo-selenium.git
 ```
 2. Create and active a virtual environment:
 ```
